@@ -1,0 +1,20 @@
+[
+    {
+        "groupName": "Trabalho",
+        "tasksIds": [
+            1
+        ]
+    },
+    {
+        "groupName": "Universidade",
+        "tasksIds": [
+            2
+        ]
+    },
+    {
+        "groupName": "Nenhum",
+        "tasksIds": [
+            3
+        ]
+    }
+]

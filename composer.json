@@ -1,0 +1,19 @@
+{
+    "name": "playground/labory",
+    "description": "Simple to-do list manager",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Breno Herculano",
+            "email": "brenosouherculano@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "ext-mbstring": "*"
+    }
+}

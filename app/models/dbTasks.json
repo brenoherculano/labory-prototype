@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Task do Trabalho",
+        "status": true,
+        "group": "Trabalho"
+    },
+    {
+        "id": 2,
+        "name": "Task da Universidade",
+        "status": true,
+        "group": "Universidade"
+    },
+    {
+        "id": 3,
+        "name": "Task feita",
+        "status": false,
+        "group": "Nenhum"
+    }
+]
