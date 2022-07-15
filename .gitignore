@@ -3,8 +3,8 @@
 composer.lock
 
 #### Databases
-dbTask.json
-taskGroups.json
+/app/models/dbTasks.json
+/app/models/taskGroups.json
 
 #### Other
 /.idea

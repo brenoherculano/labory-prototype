@@ -1,20 +1,260 @@
 [
     {
         "id": 1,
-        "name": "Task do Trabalho",
-        "status": true,
-        "group": "Trabalho"
-    },
-    {
-        "id": 2,
-        "name": "Task da Universidade",
+        "name": "Ver sum\u00e1rio do tcc",
         "status": true,
         "group": "Universidade"
     },
     {
-        "id": 3,
-        "name": "Task feita",
+        "id": 7,
+        "name": "Estudar integra\u00e7\u00e3o de api em php",
+        "status": true,
+        "group": "Programa\u00e7\u00e3o"
+    },
+    {
+        "id": 8,
+        "name": "(Implementar) dateTime no labory",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 11,
+        "name": "(Implementar) 24h mode no labory",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 14,
+        "name": "(Bug)Quando a\u00e7\u00e3o \u00e9 realizada, p\u00e1gina volta pra aba geral",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 15,
+        "name": "(Implementar) &#34;add tasks to this group&#34;",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 17,
+        "name": "(Implementar) fun\u00e7\u00e3o &#34;change group&#34; na task",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 20,
+        "name": "Adicionar tarja para confirmar entrada de new task e escolha de grupo",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 23,
+        "name": "Blusa sele\u00e7\u00e3o 2002",
+        "status": false,
+        "group": "Buy"
+    },
+    {
+        "id": 24,
+        "name": "Wallpapers com mateus",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 25,
+        "name": "Cal\u00e7a jeans",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 26,
+        "name": "Bermudinha branca tactel",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 27,
+        "name": "Cabo de internet",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 30,
+        "name": "Anel e pulseira(dourada)",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 32,
+        "name": "Cabo Sata",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 33,
+        "name": "Espuma para o mic",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 35,
+        "name": "(Implementar) &#34;Change group name&#34;",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 36,
+        "name": "Tapete yoga",
+        "status": true,
+        "group": "Buy"
+    },
+    {
+        "id": 37,
+        "name": "(Criar e Implementar) No input de nova task, colocar op\u00e7\u00e3o de grupo como selected baseado na aba selecionada",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 40,
+        "name": "Checar se quando grupo \u00e9 deletado as tasks dele v\u00e3o para &#34;Nenhum&#34;",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 42,
+        "name": "Matrix",
+        "status": true,
+        "group": "Assistir"
+    },
+    {
+        "id": 41,
+        "name": "na vastid\u00e3o da noite (amazon)",
+        "status": false,
+        "group": "Assistir"
+    },
+    {
+        "id": 43,
+        "name": "(Implementar) Sort groups by number of tasks",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 2,
+        "name": "ler texto do lukinha",
         "status": false,
         "group": "Nenhum"
+    },
+    {
+        "id": 3,
+        "name": "Estudar yii",
+        "status": true,
+        "group": "Programa\u00e7\u00e3o"
+    },
+    {
+        "id": 5,
+        "name": "Programar testes de autentica\u00e7\u00e3o portal sbox",
+        "status": false,
+        "group": "Programa\u00e7\u00e3o"
+    },
+    {
+        "id": 9,
+        "name": "Quer\u00f4",
+        "status": true,
+        "group": "Assistir"
+    },
+    {
+        "id": 12,
+        "name": "Euphoria",
+        "status": true,
+        "group": "Assistir"
+    },
+    {
+        "id": 13,
+        "name": "Shingeki No Kyojin",
+        "status": true,
+        "group": "Assistir"
+    },
+    {
+        "id": 16,
+        "name": "(Implementar) Mostrar e\/ou limitar numero de tasks na view dos grupos",
+        "status": true,
+        "group": "Labory"
+    },
+    {
+        "id": 18,
+        "name": "Duna",
+        "status": true,
+        "group": "Assistir"
+    },
+    {
+        "id": 21,
+        "name": "Instalar magento 2",
+        "status": false,
+        "group": "Programa\u00e7\u00e3o"
+    },
+    {
+        "id": 22,
+        "name": "Instalar sample products no magento",
+        "status": false,
+        "group": "Programa\u00e7\u00e3o"
+    },
+    {
+        "id": 34,
+        "name": "R$ 5000,00",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 38,
+        "name": "R$ 50,00 Zoi",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 39,
+        "name": "R$ 300,00 pai (Supermercado)",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 44,
+        "name": "R$ 100 supermercado",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 45,
+        "name": "R$ 150 dona branca",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 46,
+        "name": "R$ 45 Zoi Uber",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 47,
+        "name": "R$ 17,00 Uber (Samir indo pra madrinha)",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 48,
+        "name": "R$ 14,00 recarga cau\u00e3",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 49,
+        "name": "R$ 100 Mob",
+        "status": true,
+        "group": "Debts"
+    },
+    {
+        "id": 50,
+        "name": "R$ 12,00 Uber (Cau\u00e3 Voltando da Aula)",
+        "status": true,
+        "group": "Debts"
     }
 ]
