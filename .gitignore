@@ -1,5 +1,5 @@
 #### Composer
-/Vendor
+/vendor
 composer.lock
 
 #### Databases
