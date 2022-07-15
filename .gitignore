@@ -1,0 +1,10 @@
+#### Composer
+/Vendor
+composer.lock
+
+#### Databases
+dbTask.json
+taskGroups.json
+
+#### Other
+/.idea
