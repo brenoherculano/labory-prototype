@@ -2,9 +2,5 @@
 /vendor
 composer.lock
 
-#### Databases
-dbTasks.json
-taskGroups.json
-
 #### Other
 /.idea
